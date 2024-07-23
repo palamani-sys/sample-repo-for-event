@@ -8,7 +8,7 @@ def calculate_area(radius)
     return pi * radius ** 2
 
 # Correct the syntax error and explain:
-# The syntax error is _______________________________________________________
+# The syntax error is _______sample________________________________________________
 
 # Fixed Code:
 def calculate_area(radius):
